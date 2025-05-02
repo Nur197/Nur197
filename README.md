@@ -157,7 +157,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076666432155)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/taskin.tamim.official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taskintamim/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taskintamim2607@gmail.com
-::contentReference[oaicite:0]{index=0}
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+<!-- Wave Animation -->
+<img src="https://raw.githubusercontent.com/Taskintamim/Taskintamim/main/wave.svg" alt="wave animation" width="100%" />
+<p align="center">✨ Let's keep building. GitHub goals in progress... 🚀</p>
+
  
 
