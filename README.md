@@ -158,9 +158,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/taskin.tamim.official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taskintamim/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
-<!-- Wave Animation -->
-<img src="https://raw.githubusercontent.com/Taskintamim/Taskintamim/main/wave.svg" alt="wave animation" width="100%" />
-<p align="center">✨ Let's keep building. GitHub goals in progress... 🚀</p>
+<!-- Fancy Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 
+<p align="center">
+  ✨ Let's keep building. GitHub goals in progress... 🚀
+</p>
  
 
