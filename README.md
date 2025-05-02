@@ -1,7 +1,8 @@
 <!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi+I'm+Nur+Mohammad!;Developer+%7C+CSE+Student+%7C+Learner;Building+cool+things+🚀" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=500&lines=Hi+I'm+Nur+Mohammad!;Frontend+Developer+%7C+CSE+Student;Building+cool+things+🚀" alt="Typing SVG" />
+</p>
+
 
 
 <p align="center">
