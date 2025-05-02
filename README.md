@@ -1,15 +1,11 @@
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=500&lines=Hi+I'm+Nur+Mohammad!;Frontend+Developer+%7C+CSE+Student;Building+cool+things+🚀" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing animation" width="500" />
 </p>
 
-
-
+<h2 align="center">Hi, I'm Nur Mohammad 👋</h2>
 <p align="center">
-  🚀 Frontend Developer | 🎓 CSE Student @ East West University | ☁️ Cloud Enthusiast
+  Frontend Developer • CSE Student @ East West University • Cloud Enthusiast ☁️
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
